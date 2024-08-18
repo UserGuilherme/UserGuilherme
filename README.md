@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<p align="left">🔭 I’m currently studying and improving 1% every day.<br>🌱 Now I’m learning about Java as the principal language from my stack and Spring Boot to develop APIs and Microservices.</p>
+<p align="left"><br>🌱 Now I’m learning about Java as the principal language from my stack and Spring Boot to develop APIs and Microservices.</p>
 
 ###
 
